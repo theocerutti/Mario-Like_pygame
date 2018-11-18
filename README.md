@@ -5,7 +5,7 @@ Le but du jeu est simple : il faut ramasser toutes les pommes sur votre chemin. 
 
 ## Bien débuter
 
-1) Télécharger ce repos.
+1) Téléchargez ce repos.
 2) Executez la commande python3 rpg.py dans le dossier.
 
 ### Prérequis
