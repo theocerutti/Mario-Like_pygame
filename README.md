@@ -1,7 +1,7 @@
 # FantasiaRPG
 
 FantasiaRPG est un petit projet commencé en Terminale pour apprendre en profondeur pygame.
-Le but du jeu est simple : il faut ramasser toutes les pommes sur votre chemin. Attention ! Il y aura des ennemies et des pièges !
+Le but du jeu est simple : il faut ramasser toutes les pommes sur votre chemin. Attention ! Il y aura des ennemis et des pièges !
 
 ## Bien débuter
 
