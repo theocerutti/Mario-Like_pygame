@@ -1,22 +1,22 @@
 # FantasiaRPG
 
-FantasiaRPG est un petit projet commencé en Terminale pour apprendre en profondeur pygame.
-Le but du jeu est simple : il faut ramasser toutes les pommes sur votre chemin. Attention ! Il y aura des ennemis et des pièges !
+**FantasiaRPG is a little project begin in Terminale to learn pygame.**
+The goal of this game is simple : you need to pick up all apples on the map. Take care ! There are somes ennemies and traps! 
 
-## Bien débuter
+## Getting started
 
-1) Téléchargez ce repos.
-2) Executez la commande python3 rpg.py dans le dossier.
+1) Download this repository.
+2) ```python3 rpg.py```.
 
-### Prérequis
+### Requirements
 
-Vous aurez besoin de python3 ainsi que de pygame.
+Python3 and Pygame [Download](https://www.pygame.org/news)
 
-## Auteurs
+## Authors
 
 * **Théo CERUTTI**
 
-## Rendu
+## View
 
 ![rpg](https://user-images.githubusercontent.com/44285344/48670496-1000d580-eb19-11e8-9420-41535c5cceed.png)
 
